@@ -2,12 +2,17 @@ Bienvenue sur le dépôt du TP Sudoku.....
 
 ## Présentation des solvers
 
-DSaturSolver.cs :
+DSaturSolver :
 - https://www.tutorialspoint.com/dsatur-algorithm-for-graph-coloring
 - https://www.geeksforgeeks.org/dsatur-algorithm-for-graph-coloring/
 
-QuickGraph.cs :
-- 
+QuickGraph :
+- https://github.com/KeRNeLith/QuikGraph
+- https://kernelith.github.io/QuikGraph/
+
+GraphColoringSolver :
+- https://www.naukri.com/code360/library/graph-coloring
+- https://www.tutorialspoint.com/minimum-number-of-colours-required-to-colour-a-graph
 
 ### [Solvers xxx](Sudoku.Xxx/README.md)
 
@@ -38,7 +43,7 @@ Il s'agira pour chaque groupe de travail, sur le modèle du projet backtracking 
 
 Pour ce qui est du Workflow de collaboration:
 
-- Effectuez régulièrement une validation/commit pour baliser votre travail localement,
+- Effectuez régulièrement une validatbion/commit pour baliser votre travail localement,
 - puis un push pour le remonter vos validations sur votre fork et le partager avec les camarades de votre groupe, qui pourront le récupérer sur leurs propres environnements avec un tirage/pull.
 - Lorsque votre environnement est stable (la solution compile sans erreurs et les autres projets ne sont pas affectés par le vôtre), effectuez une [pull-request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)/requête de tirage vers le dépôt principal pour partager votre travail avec moi et les autres groupes, ainsi que dans l'autre sens à n'importe quel moment que pour récupérer les dernières mises à jours remontées par vos camarades sur le dépôt principal (dont je m'assurerai de la bonne stabilité). Pour effectuer et valider des pull requests dans un sens ou dans l'autre, vous pouvez utiliser l'[interface de github](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork), ou encore [celle de Visual Studio](https://visualstudio.developpez.com/actu/261500/Pull-Requests-pour-Visual-Studio-une-fonctionnalite-collaborative-devoilee-avec-Visual-Studio-2019-pour-gerer-les-demandes-de-tirage-dans-l-EDI/).
 - Vous serez invité à vous évaluer entre autre sur votre capacité à participer au projet global en partageant régulièrement votre travail et en récupérant celui partagé par les autres groupes. Tout cela sera visible dans la page Insights/Network de vôtre dépôt ou du dépôt principal.
